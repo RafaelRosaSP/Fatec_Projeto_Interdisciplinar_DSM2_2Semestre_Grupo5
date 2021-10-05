@@ -5,6 +5,12 @@ Qualquer substância que cause mal a saúde do indivíduo
 Levantamento de Requisitos 1.0
 
 Solução: App (Android / IOS)
+
+Nosso aplicativo ou site tem a finalidade de ajudar e acompanhar a pessoa(cliente), afim do mesmo deixar seu vício, tendo uma qualidade de vida melhor e satisfatória.
+Esse site ou app pode conter grupos de ajuda(anônimos), guia com dicas, soluções e até mesmo conceitos medicinais; em uma linguagem simples onde a pessoa se sinta acolhida nesse processo
+Acredito que seja algo que poderíamos usar nos documentos do git, com possibilidade de mais implementações  futuras em novas versões
+
+
 Sugestão: 
   - Procurarmos as instituições: 
     - AA;
