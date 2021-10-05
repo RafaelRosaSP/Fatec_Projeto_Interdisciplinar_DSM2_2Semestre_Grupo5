@@ -1,0 +1,35 @@
+Tema: Vícios
+------------
+Qualquer substância que cause mal a saúde do indivíduo
+
+Levantamento de Requisitos 1.0
+
+Solução: App (Android / IOS)
+Sugestão: 
+  - Procurarmos as instituições: 
+    - AA;
+    - Recanto da Paz(Limeira);
+    - Bezerra(Rio Claro);
+    - CAPSAD(Araras).
+  - Finalidade:
+	Fazer levantamento junto a essas instituições, em relação ao dia a dia, 
+como acontece as internações, abordagens, tratamentos e perfil do paciente,
+grau de dependência.
+
+Ideias do sw:
+- Auto avaliação;
+     preciso de ajuda?
+     sou viciado? 
+     que grau ?
+- Instituições nas proximidades;
+- Estatistica de abordados/recuperados;
+- Orientação sobre suporte, deslocamento, custos, etc;
+- Grupos de apoio.
+- público alvo
+
+Site:
+- Concientização
+- Depoimentos anônimos, vídeos, textos
+- Orientações
+
+
