@@ -1,4 +1,4 @@
-Tema: Vícios
+Tema: Vícios  => testes WF
 ------------
 Qualquer substância que cause mal a saúde do indivíduo
 
@@ -35,7 +35,7 @@ Ideias do sw:
 
 Site:
 - Concientização
-- Depoimentos anônimos, vídeos, textos, etc
+- Depoimentos anônimos, vídeos, textos
 - Orientações
 
 
