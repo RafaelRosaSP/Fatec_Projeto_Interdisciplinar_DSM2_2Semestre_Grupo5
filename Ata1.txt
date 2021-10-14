@@ -6,10 +6,10 @@ Levantamento de Requisitos 1.0
 
 Solução: App (Android / IOS)
 
-Nosso aplicativo ou site tem a finalidade de ajudar e acompanhar a pessoa(cliente), afim do mesmo deixar seu vício, tendo uma qualidade de vida melhor e satisfatória.
-Esse site ou app pode conter grupos de ajuda(anônimos), guia com dicas, soluções e até mesmo conceitos medicinais; em uma linguagem simples onde a pessoa se sinta acolhida nesse processo
-Acredito que seja algo que poderíamos usar nos documentos do git, com possibilidade de mais implementações  futuras em novas versões
-
+Descrição:
+Nosso aplicativo ou site tem a finalidade de ajudar e acompanhar a pessoa (no caso o cliente), afim do mesmo deixar seu vício, tendo uma qualidade de vida melhor e satisfatória.
+Esse site ou app pode conter grupos de ajuda(anônimos), guia com dicas, soluções e até mesmo conceitos medicinais; em uma linguagem simples onde a pessoa se sinta acolhida nesse processo contínuo.
+Havendo possibilidade de mais implementações em futuras versões, uma delas seria um sistema que "recompensaria" o usuário por cumprir alguns requisitos ou recomendações contidas no app, como logins por exemplo.
 
 Sugestão: 
   - Procurarmos as instituições: 
@@ -20,7 +20,7 @@ Sugestão:
   - Finalidade:
 	Fazer levantamento junto a essas instituições, em relação ao dia a dia, 
 como acontece as internações, abordagens, tratamentos e perfil do paciente,
-grau de dependência.
+além do acompanhamento e grau de dependência.
 
 Ideias do sw:
 - Auto avaliação;
@@ -31,11 +31,11 @@ Ideias do sw:
 - Estatistica de abordados/recuperados;
 - Orientação sobre suporte, deslocamento, custos, etc;
 - Grupos de apoio.
-- público alvo
+- Público alvo
 
 Site:
-- Concientização
+- Conscientização
 - Depoimentos anônimos, vídeos, textos
-- Orientações
+- Orientações, fontes
 
 
