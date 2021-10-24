@@ -1,3 +1,6 @@
+Descrição:
+Nosso aplicativo ou site tem a finalidade de ajudar e acompanhar a pessoa (no caso o cliente), afim do mesmo deixar seu vício, tendo uma qualidade de vida melhor e satisfatória.
+Esse site possui grupos de ajuda (anônimos), guia com dicas, soluções e até mesmo conceitos medicinais; em uma linguagem simples onde a pessoa se sinta acolhida nesse processo contínuo.
 O site tem o objetivo de aproximar o usuário e o doador à Instituição, através de um design limpo e intuitivo.
 Ao acessá-lo, temos a opção de criar ou fazer o login:
   
