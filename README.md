@@ -1,6 +1,6 @@
 
 
-sProjeto Interdisciplinar - Desenvolvimento de Software Multiplataforma - Grupo 5
+Projeto Interdisciplinar - Desenvolvimento de Software Multiplataforma - FATEC Araras
 
 1 - INTRODUÇÃO
 
