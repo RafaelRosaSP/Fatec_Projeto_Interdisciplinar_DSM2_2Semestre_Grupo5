@@ -1,6 +1,9 @@
-# Fatec_Projeto_Interdisciplinar_DSM2_2Semestre_Grupo5
+
+
+sProjeto Interdisciplinar - Desenvolvimento de Software Multiplataforma - Grupo 5
 
 1 - INTRODUÇÃO
+
 Objetivo
 Desenvolver um site que tem como objetivo contribuir com a Casa de Saúde Bezerra de Menezes, com a implementação de um novo site, aproveitando materiais já existentes no site institucional da empresa. Criar uma página com um sistema para doações simples e anônimas ou um sistema para contribuição mensal afim de se tornar amigos e parceiros do Bezerra, uma aba nova com informações e apoio para pessoas com vícios em geral e uma aba para vendas  
 e-commerce com os produtos artesanais feito por pacientes em tratamento. 
@@ -10,7 +13,10 @@ e-commerce com os produtos artesanais feito por pacientes em tratamento.
 Um novo site com uma nova interface intuitiva e simples com destaque nas novas funcionalidades: doação, e-commerce, projetos em colaboração com a sociedade e CCV (Conscientização de Combate ao Vício).
 
 3 - Diferenciais do projeto 
+
 Visando agradecer ao apoio e colaboração de cada doador e apoiador da Casa de Saúde Bezerra, após as doações via website, o doador receberá um e-mail de agradecimento automático da instituição, algo que já é realizado atualmente, porém de forma manual por funcionários da Casa de Saúde. 
+
+.......................
 
 Para maiores informações veja a documentação completa.
 
