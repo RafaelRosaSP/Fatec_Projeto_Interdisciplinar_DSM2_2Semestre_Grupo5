@@ -17,7 +17,7 @@ Visando agradecer ao apoio e colaboração de cada doador e apoiador da Casa de 
 
 .......................
 
-Para maiores informações veja a documentação completa.
+Para maiores informações consulte a documentação completa.
 
 Grupo 5 - CCV Combate de Conscientização ao Vicio.
 
