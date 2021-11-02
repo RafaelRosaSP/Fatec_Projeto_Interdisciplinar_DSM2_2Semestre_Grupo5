@@ -2,9 +2,8 @@
 
 Projeto Interdisciplinar - Desenvolvimento de Software Multiplataforma - FATEC Araras
 
-1 - INTRODUÇÃO
+1 - Objetivo
 
-Objetivo
 Desenvolver um site que tem como objetivo contribuir com a Casa de Saúde Bezerra de Menezes, com a implementação de um novo site, aproveitando materiais já existentes no site institucional da empresa. Criar uma página com um sistema para doações simples e anônimas ou um sistema para contribuição mensal afim de se tornar amigos e parceiros do Bezerra, uma aba nova com informações e apoio para pessoas com vícios em geral e uma aba para vendas  
 e-commerce com os produtos artesanais feito por pacientes em tratamento. 
 
