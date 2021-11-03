@@ -1,0 +1,43 @@
+Descrição:
+Nosso aplicativo ou site tem a finalidade de ajudar e acompanhar a pessoa (no caso o cliente), afim do mesmo deixar seu vício, tendo uma qualidade de vida melhor e satisfatória.
+Esse site possui grupos de ajuda (anônimos), guia com dicas, soluções e até mesmo conceitos medicinais; em uma linguagem simples onde a pessoa se sinta acolhida nesse processo contínuo.
+O site tem o objetivo de aproximar o usuário e o doador à Instituição, através de um design limpo e intuitivo.
+Ao acessá-lo, temos a opção de criar ou fazer o login:
+  
+  Área do Usuário
+      1.1 - O usuário preenche os campos (nome e senha), após a verificação de ambos, é liberado o acesso ao perfil.
+      1.2 - Se o login não foi realizado, há o encaminhamento para página inicial do site, o usuário se torna anônimo nessa modalidade.
+  Após isso, são liberados as seguintes funcionalidades ao usuário
+    Buscar Ajuda:
+      2.1 - Essa opção proporciona a ideia de que o atendimento seja imediato, contendo uma breve introdução sobre o assunto.
+      2.2 - Há campos para preenchimento de dados, como por exemplo um telefone/celular para contatar a pessoa o quanto antes.
+      2.3 - Logo após é agendado uma consulta, se possível até mesmo no mesmo dia; afim de prestar ajuda e uma primeira avaliação do caso.
+    Seja Membro:
+      3.1 - Oferece um acompanhamento do paciente, com foco principal no processo de melhoria desde a chegada a Instituição.
+      3.2 - Há também um guia com dicas, soluções e benefícios do tratamento; oferecendo assim mais uma ferramenta para o combate dos vícios.
+    Informações:
+      4.1 - São apresentadas informações como a história e fundação da Instituição.
+      4.2 - Contatos como redes sociais, e-mail e telefone para uma comunicação e divulgação do serviço prestado.
+      4.3 - Localização e fotos.
+    
+  Área do Doador
+      5.1 - O doador preenche os campos (nome e senha), após a verificação de ambos, é liberado o acesso ao perfil.
+      5.2 - Se o login não foi realizado, há o encaminhamento para página inicial do site, o doador se torna anônimo nessa modalidade.
+    Seja um Doador:
+      6.1 - Opção de doar anônimamente
+      6.2 - Seja parceiro (doação mensal), nessa modalidade é escolhido o valor mensal a ser doado. Assim, o doador ganha um brinde da Instituiçao.
+      6.3 - Encaminhamento para efetuar a doação (Pix ou QR Code).
+    Marketing Place:
+      7.1 - São apresentados produtos feitos pelo instituto e pacientes, como forma de terapia e arrecadação de fundos para necessidades e novos projetos institucionais.
+      7.2 - Escolha de produtos.
+      7.3 - Em seguida realizar pagamento.
+    Informações:
+      8.1 - São apresentadas informações como a história e fundação da Instituição.
+      8.2 - Contatos como redes sociais, e-mail e telefone para uma comunicação e divulgação do serviço prestado.
+      8.3 - Localização e fotos.
+      
+Há também possibilidade de implementações futuras como:
+   Chat em tempo real: Atendimento mais rápido e personalizado.
+   Questionário interativo para usuário: Avaliar quadro do paciente.
+   Novidades: Divulgação de campanhas no site a fim de poder realizar novos projetos Institucionais e melhorias aos pacientes.
+   
