@@ -1,0 +1,177 @@
+.container_site{
+    width: 85%;
+    margin: auto;
+    padding: 5%;
+    background-color: white;
+}
+
+
+
+.links{
+  font-family: 'Comfortaa', cursive;
+}
+
+body{
+  background-color: #aec1d38c;
+}
+
+.apresentacao_site{
+  margin-top: 2%;
+  margin-bottom: 2%;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.cards_site{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+.rodape{
+    height: 5rem;
+    background-color: #e3f2fd;
+    width: 100%;
+    bottom: 0%;
+    margin-bottom: 0%;
+    left: 0%;
+    text-align: center;
+  }
+
+  .text-bar{
+    color:red;
+    text-decoration: none;
+    margin-right: 30px;
+  }
+
+  .titulo{
+      text-align: center;
+      margin-top: 5%;
+  }
+  .separacao{
+      background-color: #788691;
+      margin-top: 2px;
+      margin-bottom: 2px;
+      height: 1px;
+  }
+
+  .titulo_apres{
+    font-family: 'Comfortaa', cursive;
+  }
+
+  @media screen and (max-width: 800px) {
+    
+    .entrevista {
+      flex-direction: column;    
+      justify-content: start;
+      margin-bottom: 5%;
+      height: auto;
+    }
+    .texto_divisao{
+      width: 100%;
+      margin-top: 5%;
+      padding: 2%;
+      font-size: auto;
+    }
+
+    .titulo_video{
+      font-size: auto;
+
+    }
+    
+
+    .localizacao{
+      padding: auto;
+      height: auto;
+    }
+
+    .localizacao_frame{
+      width:100%;
+      height: 50%;
+    }
+
+    .links{
+      flex-direction: column;    
+    }
+  } 
+
+  @media screen and (max-width: 800px) {
+    
+    .entrevista {
+      flex-direction: column;    
+      justify-content: start;
+      margin-bottom: 5%;
+      height: auto;
+    }
+    .texto_divisao{
+      width: 100%;
+      margin-top: 5%;
+      padding: 2%;
+      font-size: auto;
+    }
+
+    .titulo_video{
+      font-size: auto;
+    }
+    
+    .localizacao{
+      padding: auto;
+      height: auto;
+    }
+
+    .localizacao_frame{
+      width:100%;
+      height: 50%;
+    }
+
+    .links{
+      flex-direction: column;    
+    }
+  } 
+
+
+  .entrevista{
+    display: flex;
+    justify-content: space-between;
+    height: 20rem;
+  }
+
+  .video_youtube{
+    width: 100%;
+  }
+
+  .texto_divisao{
+      width: 100%;
+      margin-top: 5%;
+      padding: 2%;
+  }
+  .localizacao{
+    margin-top: 5%;
+  }
+
+  .produtos{
+    text-align: center;
+  }
+
+  .imagem_prod{
+    text-align: center;
+    width: 40rem;
+    height: 20rem;
+  }
+
+  .contatos{
+    display: flex;
+  }
+
+  .localiza_cont{
+    height: 100%;
+    width: 50%;
+    margin-left: auto;
+  }
+
+  .botao_fb{
+    text-align: center;
+  }
+
+  .op_inicio{
+    color: black;
+  }
