@@ -1,0 +1,103 @@
+/****************************************/
+p{
+  text-align: justify;
+  text-justify: inter-word;
+}
+/****************************************/
+.tit
+{
+  font-size: 50px;
+  margin: 15px;
+  text-align: center;
+}
+.accordion
+{
+  padding: 30px !important;
+}
+/****************************************/
+.historia
+{
+  padding: 30px;
+}
+.txt-negrito
+{
+  font-style: oblique;
+  font-weight: bold;
+  text-align: center;
+  background-color: #F5E6E5;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.15);
+}
+/****************************************/
+.abrangencia
+{
+  padding: 30px;
+}
+.abrangencia-i
+{
+   display: flex;
+   justify-content: space-between;
+   flex-wrap: wrap;
+}
+ .abrangencia-img
+{
+  padding: 5px;
+}
+.abrangencia-img img
+{
+   width: 100%;
+   height: 100%;
+}
+.abrangencia-lista
+{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+/****************************************/
+.objetivo-metodologia
+{
+   padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: #F5E6E5;
+}
+.objetivo-metodologia ul
+{
+  list-style-type:square;
+}
+/****************************************/
+.caracteristicas
+{
+  padding: 30px;
+}
+/****************************************/
+.capacidade-foto img
+{
+   width: 100%;
+}
+.capacidade
+{
+  margin-left: 5px;
+  padding: 30px;
+}
+.capacidade-lista
+{
+  width: 100% !important;
+}
+/****************************************/
+.view
+{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 30px;
+  background-color: #F5E6E5;
+}
+.view-card
+{
+  padding: 10px;
+}
+/****************************************/
