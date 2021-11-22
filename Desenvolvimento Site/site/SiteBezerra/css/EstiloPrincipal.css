@@ -1,0 +1,29 @@
+.princ
+{
+  padding: 20px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.princ p
+{
+  font-style: oblique;
+  font-size: 18px !important;
+  margin-bottom: 5px;
+}
+.proj
+{
+  text-align: right;
+}
+.maior
+{
+  font-size: 25px;
+}
+.video_youtube
+{
+  width: 100%;
+  height: auto;
+}
+.imagem
+{
+  margin: auto;
+}

@@ -1,0 +1,9 @@
+.carousel-item
+{
+  height: 700px;
+}
+.carousel-item img
+{
+  width: auto;
+  height: 100%;
+}
