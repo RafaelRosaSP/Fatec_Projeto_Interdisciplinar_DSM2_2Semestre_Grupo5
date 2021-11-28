@@ -2,17 +2,22 @@
 
 Projeto Interdisciplinar - Desenvolvimento de Software Multiplataforma - FATEC Araras
 
-1 - Objetivo
+1 Introdução
 
-Desenvolver um site que tem como objetivo contribuir com a Casa de Saúde Bezerra de Menezes, com a implementação de um novo site, aproveitando materiais já existentes no site institucional da empresa. Criar uma página com um sistema para doações simples e anônimas ou um sistema para contribuição mensal afim de se tornar amigos e parceiros do Bezerra, uma aba nova com informações e apoio para pessoas com vícios em geral e uma aba para vendas e-commerce com os produtos artesanais feito por pacientes em tratamento. 
+1.1	Objetivo 
 
-2 - Descrição do projeto
+O presente documento tem como objetivo descrever a arquitetura do projeto de Conscientização de Combate ao Vicio (CCV), que consiste na reestruturação de um website para atender as necessidades de uma Casa de Saúde localizada na cidade de Rio Claro-SP. 
 
-Um novo site com uma nova interface intuitiva e simples com destaque nas novas funcionalidades: doação, e-commerce, projetos em colaboração com a sociedade e CCV (Conscientização de Combate ao Vício).
+1.2	Descrição do Projeto Entregue
 
-3 - Diferenciais do projeto 
+Com uma nova interface intuitiva e simples, o destaque da página web são as novas funcionalidades, criadas para atender as necessidades primordiais e imediatas da Instituição em questão, que são o recebimento de doações e a venda de produtos artesanais, ambos realizados de forma online. 
+Além da nova página de doação e do link de acesso ao Marktplace, o site contém as tradicionais páginas de contato e mapa de localização, apresentação da Instituição, galeria de imagens, e links de acesso às demais redes sociais da Instituição. 
 
-Visando agradecer ao apoio e colaboração de cada doador e apoiador da Casa de Saúde Bezerra, após as doações via website, o doador receberá um e-mail de agradecimento automático da instituição, algo que já é realizado atualmente, porém de forma manual por funcionários da Casa de Saúde. 
+1.3	Implementações Futuras
+
+Baseando-se nas necessidades da Instituição de receber doações regulares, considerou-se futuramente a criação de um sistema de cadastro de doadores ativos, que contribuam de forma mensal e consistente. 
+A plataforma também contará com uma aba de apoio para pessoas com vícios em geral, que consiste no cadastro de pacientes que estão em busca de atendimento pela Casa de Saúde. 
+Por último, a criação de um sistema de compra e venda de artigos no próprio website.  
 
 .......................
 
