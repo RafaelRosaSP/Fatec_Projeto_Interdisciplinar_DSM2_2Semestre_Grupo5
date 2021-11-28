@@ -25,6 +25,8 @@ Para maiores informações consulte a documentação completa.
 
 Grupo 5 - CCV Combate de Conscientização ao Vicio.
 
+![Alt text](https://www.pilotomaster.com.br/CCV/LOGO-CCV-Sem-Fundo.png "Logo CCV")
+
 Integrantes:
 
 •	Antonio Luis Pereira Candioto <BR>
