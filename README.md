@@ -1,6 +1,5 @@
 
-
-Projeto Interdisciplinar - Desenvolvimento de Software Multiplataforma - FATEC Araras
+![Alt text](https://www.pilotomaster.com.br/CCV/topo-readme.jpg)
 
 1 Introdução
 
