@@ -24,7 +24,7 @@ Para maiores informações consulte a documentação completa.
 
 Grupo 5 - CCV Combate e Conscientização ao Vicio.
 
-![Alt text](https://www.pilotomaster.com.br/CCV/LOGO-CCV-Sem-Fundo.png "Logo CCV")
+![Alt text](https://www.pilotomaster.com.br/CCV/logo.png "Logo CCV")
 
 Integrantes:
 
