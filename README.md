@@ -29,9 +29,9 @@ Grupo 5 - CCV Combate e Conscientização ao Vicio.
 Integrantes:
 
 •	Antonio Luis Pereira Candioto <BR>
-•	Danielle da Conceicao Ferreira <BR>
+•	Danielle da Conceição Ferreira <BR>
 •	Gleison Rodrigo Moura da Silva <BR>
-•	Marcel De Menezes Araujo <BR>
+•	Marcel De Menezes Araújo <BR>
 •	Rafael Rosa de Oliveira <BR>
 •	Rubens Dirceu Ortega Junior <BR>
 •	Thaina Helen Ceccatto <BR>
