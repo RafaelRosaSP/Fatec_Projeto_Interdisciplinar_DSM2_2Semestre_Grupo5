@@ -1,6 +1,5 @@
 
-
-Projeto Interdisciplinar - Desenvolvimento de Software Multiplataforma - FATEC Araras
+![Alt text](https://www.pilotomaster.com.br/CCV/topo-readme.jpg)
 
 1 Introdução
 
@@ -23,9 +22,9 @@ Por último, a criação de um sistema de compra e venda de artigos no próprio 
 
 Para maiores informações consulte a documentação completa.
 
-Grupo 5 - CCV Combate de Conscientização ao Vicio.
+Grupo 5 - CCV Combate e Conscientização ao Vicio.
 
-![Alt text](https://www.pilotomaster.com.br/CCV/LOGO-CCV-Sem-Fundo.png "Logo CCV")
+![Alt text](https://www.pilotomaster.com.br/CCV/logo.png "Logo CCV")
 
 Integrantes:
 
