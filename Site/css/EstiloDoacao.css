@@ -1,0 +1,42 @@
+.tit
+{
+  font-size: 50px;
+  margin: 15px;
+  text-align: center;
+  color: #0265B6;
+}
+.blocovideo p
+{
+  font-size: 1.5rem;
+  color: #1D5CEF;
+}
+.infdoacoes
+{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+.pixb
+{
+  width: 100%;
+}
+.key
+{
+  text-align: center;
+  text-justify: inter-word;
+  background-color: gray;
+}
+.colunas
+{
+  margin-bottom: 80px;
+}
+/**************************************************
+               REDIMENCIONAMENTO
+**************************************************/
+@media screen and (max-width: 600px)
+{
+  .colunas
+  {
+    margin-bottom: 40px;
+  }
+}
+/**************************************************/
